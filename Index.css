@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+h2{
+    background-color: white;
+}
+p, h1{
+    color: rgb(251, 0, 255);
+}
